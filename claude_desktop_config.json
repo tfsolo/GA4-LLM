@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "ga4-analytics": {
+      "command": "C:\\Users\\Kangin\\AppData\\Local\\Programs\\Python\\Launcher\\py.exe",
+      "args": [
+        "-u",
+        "D:\\Career\\ga4-mcp-server\\layer.py"
+      ]
+    }
+  }
+}
